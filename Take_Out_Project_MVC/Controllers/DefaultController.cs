@@ -13,5 +13,9 @@ namespace Take_Out_Project_MVC.Controllers
         {
             return View();
         }
+        public ActionResult Show()
+        {
+            return View();
+        }
     }
 }
